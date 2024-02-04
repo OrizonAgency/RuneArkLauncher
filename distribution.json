@@ -1,5 +1,11 @@
 {
   "version": "1.0.0",
+  "rss": "https://helios-files.geekcorner.eu.org/rss.xml",
+  "discord": {
+    "clientId": "1086936373057040395",
+    "smallImageText": "Change me through Nebula",
+    "smallImageKey": "big"
+  },
   "servers": [
     {
       "id": "RuneArk-1.12.2",
@@ -9,6 +15,11 @@
       "version": "1.0.0",
       "address": "mc.westeroscraft.com:25565",
       "minecraftVersion": "1.12.2",
+      "discord": {
+        "shortId": "WesterosCraft Demo",
+        "largeImageKey": "westeroscraft",
+        "largeImageText": "Change me through Nebula"
+      },
       "mainServer": true,
       "autoconnect": true,
       "modules": [
