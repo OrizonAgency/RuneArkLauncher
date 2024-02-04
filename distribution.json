@@ -9,9 +9,9 @@
   "servers": [
     {
       "id": "RuneArk-1.12.2",
-      "name": "RuneArk RPG | MMORPG (Minecraft 1.12.2)",
+      "name": "RuneArk RPG | MMORPG 1.12.2",
       "description": "RuneArk RPG Running Minecraft 1.12.2 (Forge v14.23.5.2859)",
-      "icon": "https://github.com/OrizonAgency/RuneArkLauncher/blob/master/app/assets/images/RuneArkIcon.png",
+      "icon": "http://44.31.180.19/oveur/RuneArkIcon.png",
       "version": "1.0.0",
       "address": "mc.westeroscraft.com:25565",
       "minecraftVersion": "1.12.2",
