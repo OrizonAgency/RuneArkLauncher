@@ -519,17 +519,6 @@
           }
         },
         {
-          "id": "WesterosCraft-v1.12.2-29.zip",
-          "name": "WesterosCraft-v1.12.2-29.zip",
-          "type": "File",
-          "artifact": {
-            "size": 55905310,
-            "url": "https://helios-files.geekcorner.eu.org/servers/WesterosCraft-Demo-1.12.2/files/resourcepacks/WesterosCraft-v1.12.2-29.zip",
-            "MD5": "eb3c794aafe44c7ea7d3407a10553bd4",
-            "path": "resourcepacks/WesterosCraft-v1.12.2-29.zip"
-          }
-        },
-        {
           "id": "servers.dat",
           "name": "servers.dat",
           "type": "File",
@@ -538,28 +527,6 @@
             "url": "https://helios-files.geekcorner.eu.org/servers/WesterosCraft-Demo-1.12.2/files/servers.dat",
             "MD5": "71d99e229d7d2b8d2a6423e46832a4b8",
             "path": "servers.dat"
-          }
-        },
-        {
-          "id": "Chocapic13_V9_Extreme.zip",
-          "name": "Chocapic13_V9_Extreme.zip",
-          "type": "File",
-          "artifact": {
-            "size": 3134623,
-            "url": "https://helios-files.geekcorner.eu.org/servers/WesterosCraft-Demo-1.12.2/files/shaderpacks/Chocapic13_V9_Extreme.zip",
-            "MD5": "2a5ec76ad7acc47005e32cc1e5da1e41",
-            "path": "shaderpacks/Chocapic13_V9_Extreme.zip"
-          }
-        },
-        {
-          "id": "SEUS-Renewed-v1.0.1.zip",
-          "name": "SEUS-Renewed-v1.0.1.zip",
-          "type": "File",
-          "artifact": {
-            "size": 7062638,
-            "url": "https://helios-files.geekcorner.eu.org/servers/WesterosCraft-Demo-1.12.2/files/shaderpacks/SEUS-Renewed-v1.0.1.zip",
-            "MD5": "8faeb04d9953c9b10b0794acafc4c1aa",
-            "path": "shaderpacks/SEUS-Renewed-v1.0.1.zip"
           }
         }
       ]
